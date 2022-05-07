@@ -16,12 +16,17 @@ p {
     font-size: x-large;
 }
 
-hr {
+#dotted {
     border: 20px dotted red;
     border-style: none none dotted;
     margin: auto;
     width: 200px;
     border-color:darkslategrey;
+}
+
+#empty {
+    border-style: none;
+    height: 50px;
 }
 
 h1 {

@@ -1,0 +1,68 @@
+head {
+    margin: 0;
+}
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: azure;
+    font-size: x-large;
+}
+h1 {
+    margin: 0;
+}
+
+p {
+    font-size: x-large;
+}
+
+hr {
+    border: 20px dotted red;
+    border-style: none none dotted;
+    margin: auto;
+    width: 200px;
+    border-color:darkslategrey;
+}
+
+h1 {
+    color:darkslategrey;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    font-size: x-large;
+}
+
+.top-div {
+    color:darkslategrey;
+    background-color: azure;
+    position: relative;
+    padding-top: 150px;
+    margin-bottom: 100px;
+}
+
+.middle-div {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.bottom-div {
+    margin-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    left: 200px;
+    top: 60px;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    margin-left: 50%;
+    margin-right: 50%;
+    right: 260px;
+    bottom: 300px;
+}
